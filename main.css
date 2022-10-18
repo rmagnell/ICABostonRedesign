@@ -1,0 +1,135 @@
+html
+{
+    
+}
+
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans', sans-serif;
+}
+
+header
+{
+    background-color: #BFD3EB;
+    padding: 1em;
+}
+
+.header-wrapper
+{
+    text-align: center;
+}
+
+.hero img
+{
+    width: 100%;
+}
+
+nav a
+{
+    margin: 0 1em;
+    color: #000000;
+    text-decoration: none;
+}
+
+nav .active
+{
+    background-color: #000000;
+    color: #ffffff;
+    padding: .2em 1em;
+    margin: 0;
+}
+
+nav a:hover
+{
+    text-decoration: underline;
+}
+
+.hero
+{
+    position: relative;
+}
+
+.hero-wrapper
+{
+    width: 100%;
+    position: absolute;
+    top: 20%;
+    right: 3%;
+}
+
+.hero-wrapper h2
+{
+    color: #BFD3EB;
+}
+
+.hero-wrapper .button
+{
+    background-color: #C09ADF;
+    color: #BFD3EB;
+    padding: .5em 1.5em;
+    text-decoration: none;
+}
+
+.services-grid
+{
+    width: 200%;
+    text-align: left;
+    margin-bottom: 2em;
+}
+
+.service
+{
+    padding: 1em 2em;
+}
+
+.button
+{
+    background-color: #cccccc;
+    color: #;
+    padding: .5em 1.5em;
+    text-decoration: none;
+}
+
+.breadcrumb
+{
+     padding: 0 1em;
+}
+
+.detail-grid
+{
+   padding: 1em;
+   text-align: left;
+}
+.footer-wrapper
+{
+    text-align: center;
+
+
+}
+.footer-wrapper
+{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
